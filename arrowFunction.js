@@ -57,5 +57,4 @@ const buatUser = (nama, umur) => ({
     nama: nama,
     umur: umur
 });
-
 console.log(buatUser("Mutiara", 22)); // Output: { nama: 'Mutiara', umur: 22 }
